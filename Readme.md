@@ -12,4 +12,4 @@ By Dinesh Bana
 
 ![badge](https://img.shields.io/badge/Digital%20Marketing%20%20Landing%20Page-HTML%20%26%20CSS-red)
 
-## Project Link: [My Website](https://plant-home-templete.netlify.app/)
+## Project Link: [My Website](https://digital-marketing-webapi.netlify.app/)
